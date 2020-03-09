@@ -23,10 +23,14 @@ Your task is to import, and organize the data -- and to begin preliminary analys
 
 ### 6 -- Practice using iloc and loc 
    6.1 - Create slice of returns for October 8th
+   
    6.2 - Create slice of FULL df for days when Roku was positive.
+   
    6.3 - Create slice of DF for days when Roku and Tsla was positive, only returning Date, Tsla and Roku columns.
-       - Bonus 6.4: Create slice of DF for days when Roku was positive, Tsla was negative, and return columns beginning with r (NOT JUST RETURNING ROKU)
-       - Bonus 6.5: Return rows beginning with m - z of DF from 6.4 (I used list comp, and alphabetical comparison)
+   
+   - Bonus 6.4: Create slice of DF for days when Roku was positive, Tsla was negative, and return columns beginning with r (NOT JUST RETURNING ROKU)
+   
+   - Bonus 6.5: Return rows beginning with m - z of DF from 6.4 (I used list comp, and alphabetical comparison)
 
 ### -- Bonus 7: Calculate Correlation Matrix
    - Print Average Correlations for Each Instrument (Column)
