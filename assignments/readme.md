@@ -31,7 +31,7 @@ Your task is to import, and organize the data -- and to begin preliminary analys
    - Bonus 6.4: Create slice of DF for days when Roku was positive, Tsla was negative, and return columns beginning with r (NOT JUST RETURNING ROKU)
    
    - Bonus 6.5: Return rows beginning with m - z of DF from 6.4 (I used list comp, and alphabetical comparison)
-   - Bonus 6.6: Try Assigning a new column value based on condition that Tsla is Positive Roku is Positive 
+   - Bonus 6.6: Try Assigning a new column value based on condition that Tsla is Positive Roku is Positive (Use .loc or np.where)
 
 ### -- Bonus 7: Calculate Correlation Matrix
    - Print Average Correlations for Each Instrument (Column)
